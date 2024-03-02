@@ -1,0 +1,23 @@
+              precision    recall  f1-score   support
+
+     anxiety       0.65      0.49      0.56        35
+     boredom       0.60      0.30      0.40        30
+  cold anger       0.38      0.37      0.38        27
+    contempt       0.35      0.51      0.42        35
+     despair       0.33      0.26      0.29        31
+     disgust       0.55      0.64      0.59        25
+    dominant       0.67      0.70      0.68        90
+     elation       0.49      0.54      0.51        37
+       happy       0.57      0.47      0.52        34
+   hot anger       0.52      0.52      0.52        33
+    interest       0.38      0.28      0.32        36
+     neutral       0.75      0.84      0.79       294
+       panic       0.49      0.57      0.52        30
+     passive       0.56      0.59      0.57        81
+       pride       0.33      0.26      0.29        27
+     sadness       0.62      0.47      0.53        34
+       shame       0.33      0.19      0.24        31
+
+    accuracy                           0.60       910
+   macro avg       0.50      0.47      0.48       910
+weighted avg       0.59      0.60      0.59       910
