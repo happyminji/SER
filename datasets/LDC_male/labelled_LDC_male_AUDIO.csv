@@ -1,0 +1,931 @@
+,emotion,statements,situation,gender
+datasources\LDC_male\wav\1AX1s0020.wav,anxiety,eight hundred eight,conversation,male
+datasources\LDC_male\wav\1AX1s0021.wav,anxiety,eight hundred eight,conversation,male
+datasources\LDC_male\wav\1AX1s0040.wav,anxiety,four thousand eight,conversation,male
+datasources\LDC_male\wav\1AX1s0060.wav,anxiety,nine thousand six,conversation,male
+datasources\LDC_male\wav\1AX1s0061.wav,anxiety,nine thousand six,conversation,male
+datasources\LDC_male\wav\1AX1s0080.wav,anxiety,six thousand twelve,conversation,male
+datasources\LDC_male\wav\1AX1s0081.wav,anxiety,six thousand twelve,conversation,male
+datasources\LDC_male\wav\1AX1s0090.wav,anxiety,three thousand eight,conversation,male
+datasources\LDC_male\wav\1AX1s0091.wav,anxiety,three thousand eight,conversation,male
+datasources\LDC_male\wav\1AX1s3450.wav,anxiety,may twenty-third,conversation,male
+datasources\LDC_male\wav\1BD1s0100.wav,boredom,april fifteenth,conversation,male
+datasources\LDC_male\wav\1BD1s0101.wav,boredom,april fifteenth,conversation,male
+datasources\LDC_male\wav\1BD1s0110.wav,boredom,eight thousand six,conversation,male
+datasources\LDC_male\wav\1BD1s0111.wav,boredom,eight thousand six,conversation,male
+datasources\LDC_male\wav\1BD1s0120.wav,boredom,five thousand twelve,conversation,male
+datasources\LDC_male\wav\1BD1s0150.wav,boredom,nine hundred four,conversation,male
+datasources\LDC_male\wav\1BD1s0151.wav,boredom,nine hundred four,conversation,male
+datasources\LDC_male\wav\1BD1s0160.wav,boredom,october sixth,conversation,male
+datasources\LDC_male\wav\1BD1s0180.wav,boredom,six hundred six,conversation,male
+datasources\LDC_male\wav\1BD1s0181.wav,boredom,six hundred six,conversation,male
+datasources\LDC_male\wav\1BD1s0190.wav,boredom,thirteen hundred,conversation,male
+datasources\LDC_male\wav\1BD1s0200.wav,boredom,two hundred one,conversation,male
+datasources\LDC_male\wav\1BD1s0201.wav,boredom,two hundred one,conversation,male
+datasources\LDC_male\wav\1BD1s3360.wav,boredom,march twenty-sixth,conversation,male
+datasources\LDC_male\wav\1DG1s0420.wav,disgust,april second,conversation,male
+datasources\LDC_male\wav\1DG1s0421.wav,disgust,april second,conversation,male
+datasources\LDC_male\wav\1DG1s0422.wav,disgust,april second,conversation,male
+datasources\LDC_male\wav\1DG1s0423.wav,disgust,april second,conversation,male
+datasources\LDC_male\wav\1DG1s0424.wav,disgust,april second,conversation,male
+datasources\LDC_male\wav\1DG1s0425.wav,disgust,april second,conversation,male
+datasources\LDC_male\wav\1DG1s0430.wav,disgust,eight thousand twelve,conversation,male
+datasources\LDC_male\wav\1DG1s0431.wav,disgust,eight thousand twelve,conversation,male
+datasources\LDC_male\wav\1DG1s0432.wav,disgust,eight thousand twelve,conversation,male
+datasources\LDC_male\wav\1DG1s0433.wav,disgust,eight thousand twelve,conversation,male
+datasources\LDC_male\wav\1DG1s0440.wav,disgust,four hundred eight,conversation,male
+datasources\LDC_male\wav\1DG1s0441.wav,disgust,four hundred eight,conversation,male
+datasources\LDC_male\wav\1DG1s0442.wav,disgust,four hundred eight,conversation,male
+datasources\LDC_male\wav\1DG1s0460.wav,disgust,may seventeenth,conversation,male
+datasources\LDC_male\wav\1DG1s0461.wav,disgust,may seventeenth,conversation,male
+datasources\LDC_male\wav\1DG1s0462.wav,disgust,may seventeenth,conversation,male
+datasources\LDC_male\wav\1DG1s0470.wav,disgust,nine hundred six,conversation,male
+datasources\LDC_male\wav\1DG1s0471.wav,disgust,nine hundred six,conversation,male
+datasources\LDC_male\wav\1DG1s0472.wav,disgust,nine hundred six,conversation,male
+datasources\LDC_male\wav\1DG1s0480.wav,disgust,october twelfth,conversation,male
+datasources\LDC_male\wav\1DG1s0481.wav,disgust,october twelfth,conversation,male
+datasources\LDC_male\wav\1DG1s0482.wav,disgust,october twelfth,conversation,male
+datasources\LDC_male\wav\1DG1s0490.wav,disgust,one thousand five,conversation,male
+datasources\LDC_male\wav\1DG1s0491.wav,disgust,one thousand five,conversation,male
+datasources\LDC_male\wav\1DG1s0500.wav,disgust,six hundred twelve,conversation,male
+datasources\LDC_male\wav\1DG1s0510.wav,disgust,three hundred eight,conversation,male
+datasources\LDC_male\wav\1DG1s0511.wav,disgust,three hundred eight,conversation,male
+datasources\LDC_male\wav\1DG1s0520.wav,disgust,two hundred three,conversation,male
+datasources\LDC_male\wav\1HA1s0950.wav,hot anger,december tenth,conversation,male
+datasources\LDC_male\wav\1HA1s0951.wav,hot anger,december tenth,conversation,male
+datasources\LDC_male\wav\1HA1s0952.wav,hot anger,december tenth,conversation,male
+datasources\LDC_male\wav\1HA1s0960.wav,hot anger,eight hundred twelve,conversation,male
+datasources\LDC_male\wav\1HA1s0970.wav,hot anger,five thousand five,conversation,male
+datasources\LDC_male\wav\1HA1s0980.wav,hot anger,four thousand twelve,conversation,male
+datasources\LDC_male\wav\1HA1s1000.wav,hot anger,november third,conversation,male
+datasources\LDC_male\wav\1HA1s1010.wav,hot anger,one hundred five,conversation,male
+datasources\LDC_male\wav\1HA1s1030.wav,hot anger,ten thousand nine,conversation,male
+datasources\LDC_male\wav\1HA1s1031.wav,hot anger,ten thousand nine,conversation,male
+datasources\LDC_male\wav\1HA1s1040.wav,hot anger,three thousand twelve,conversation,male
+datasources\LDC_male\wav\1HA1s1041.wav,hot anger,three thousand twelve,conversation,male
+datasources\LDC_male\wav\1HA1s3300.wav,hot anger,march thirty-first,conversation,male
+datasources\LDC_male\wav\1HA1s3520.wav,hot anger,seventy-three,conversation,male
+datasources\LDC_male\wav\1HP1s0740.wav,happy,three hundred nine,conversation,male
+datasources\LDC_male\wav\1HP1s0741.wav,happy,three hundred nine,conversation,male
+datasources\LDC_male\wav\1HP1s1050.wav,happy,april thirteenth,conversation,male
+datasources\LDC_male\wav\1HP1s1051.wav,happy,april thirteenth,conversation,male
+datasources\LDC_male\wav\1HP1s1070.wav,happy,four hundred nine,conversation,male
+datasources\LDC_male\wav\1HP1s1071.wav,happy,four hundred nine,conversation,male
+datasources\LDC_male\wav\1HP1s1080.wav,happy,june eleventh,conversation,male
+datasources\LDC_male\wav\1HP1s1081.wav,happy,june eleventh,conversation,male
+datasources\LDC_male\wav\1HP1s1082.wav,happy,june eleventh,conversation,male
+datasources\LDC_male\wav\1HP1s1090.wav,happy,may twentieth,conversation,male
+datasources\LDC_male\wav\1HP1s1091.wav,happy,may twentieth,conversation,male
+datasources\LDC_male\wav\1HP1s1100.wav,happy,nine hundred twelve,conversation,male
+datasources\LDC_male\wav\1HP1s1101.wav,happy,nine hundred twelve,conversation,male
+datasources\LDC_male\wav\1HP1s1110.wav,happy,one thousand one,conversation,male
+datasources\LDC_male\wav\1HP1s1111.wav,happy,one thousand one,conversation,male
+datasources\LDC_male\wav\1HP1s1120.wav,happy,september first,conversation,male
+datasources\LDC_male\wav\1HP1s1121.wav,happy,september first,conversation,male
+datasources\LDC_male\wav\1HP1s1122.wav,happy,september first,conversation,male
+datasources\LDC_male\wav\1HP1s1123.wav,happy,september first,conversation,male
+datasources\LDC_male\wav\1HP1s1130.wav,happy,six thousand five,conversation,male
+datasources\LDC_male\wav\1HP1s1140.wav,happy,two thousand eight,conversation,male
+datasources\LDC_male\wav\1HP1s1141.wav,happy,two thousand eight,conversation,male
+datasources\LDC_male\wav\1HP1s1142.wav,happy,two thousand eight,conversation,male
+datasources\LDC_male\wav\1NT1s0170.wav,neutral,one hundred twelve,conversation,male
+datasources\LDC_male\wav\1NT1s0171.wav,neutral,one hundred twelve,conversation,male
+datasources\LDC_male\wav\1NT1s0370.wav,neutral,october third,conversation,male
+datasources\LDC_male\wav\1NT1s0390.wav,neutral,six hundred three,conversation,male
+datasources\LDC_male\wav\1NT1s0780.wav,neutral,two thousand ten,conversation,male
+datasources\LDC_male\wav\1NT1s0781.wav,neutral,two thousand ten,conversation,male
+datasources\LDC_male\wav\1NT1s0810.wav,neutral,march eleventh,conversation,male
+datasources\LDC_male\wav\1NT1s0820.wav,neutral,nineteen hundred,conversation,male
+datasources\LDC_male\wav\1NT1s1050.wav,neutral,april thirteenth,conversation,male
+datasources\LDC_male\wav\1NT1s1070.wav,neutral,four hundred nine,conversation,male
+datasources\LDC_male\wav\1NT1s1140.wav,neutral,two thousand eight,conversation,male
+datasources\LDC_male\wav\1NT1s1141.wav,neutral,two thousand eight,conversation,male
+datasources\LDC_male\wav\1NT1s1180.wav,neutral,nine thousand eight,conversation,male
+datasources\LDC_male\wav\1NT1s1280.wav,neutral,december fifth,conversation,male
+datasources\LDC_male\wav\1NT1s1281.wav,neutral,december fifth,conversation,male
+datasources\LDC_male\wav\1NT1s1320.wav,neutral,eight hundred two,conversation,male
+datasources\LDC_male\wav\1NT1s1330.wav,neutral,eight thousand two,conversation,male
+datasources\LDC_male\wav\1NT1s1360.wav,neutral,five hundred one,conversation,male
+datasources\LDC_male\wav\1NT1s1370.wav,neutral,five thousand one,conversation,male
+datasources\LDC_male\wav\1NT1s1410.wav,neutral,four thousand nine,conversation,male
+datasources\LDC_male\wav\1NT1s1411.wav,neutral,four thousand nine,conversation,male
+datasources\LDC_male\wav\1NT1s1440.wav,neutral,july eighteenth,conversation,male
+datasources\LDC_male\wav\1NT1s1450.wav,neutral,june thirtieth,conversation,male
+datasources\LDC_male\wav\1NT1s1520.wav,neutral,nine hundred eight,conversation,male
+datasources\LDC_male\wav\1NT1s1550.wav,neutral,no emotion,conversation,male
+datasources\LDC_male\wav\1NT1s1580.wav,neutral,november tenth,conversation,male
+datasources\LDC_male\wav\1NT1s1640.wav,neutral,one thousand twelve,conversation,male
+datasources\LDC_male\wav\1NT1s1670.wav,neutral,september twelfth,conversation,male
+datasources\LDC_male\wav\1NT1s1720.wav,neutral,six thousand three,conversation,male
+datasources\LDC_male\wav\1NT1s1740.wav,neutral,ten thousand one,conversation,male
+datasources\LDC_male\wav\1NT1s1760.wav,neutral,three hundred five,conversation,male
+datasources\LDC_male\wav\1NT1s1780.wav,neutral,three thousand five,conversation,male
+datasources\LDC_male\wav\1NT1s1800.wav,neutral,two hundred eight,conversation,male
+datasources\LDC_male\wav\1NT1s1830.wav,neutral,two thousand nine,conversation,male
+datasources\LDC_male\wav\1NT1s1831.wav,neutral,two thousand nine,conversation,male
+datasources\LDC_male\wav\1NT1s1832.wav,neutral,two thousand nine,conversation,male
+datasources\LDC_male\wav\1NT1s1840.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\1NT1s1841.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\1NT1s1842.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\1NT1s1843.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\1NT1s1844.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\1NT1s1845.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\1NT1s1850.wav,neutral,two thousand six,conversation,male
+datasources\LDC_male\wav\1NT1s1860.wav,neutral,two thousand three,conversation,male
+datasources\LDC_male\wav\1NT1s1870.wav,neutral,two thousand twelve,conversation,male
+datasources\LDC_male\wav\1NT1s1871.wav,neutral,two thousand twelve,conversation,male
+datasources\LDC_male\wav\1NT1s1880.wav,neutral,two thousand two,conversation,male
+datasources\LDC_male\wav\1NT1s1881.wav,neutral,two thousand two,conversation,male
+datasources\LDC_male\wav\1NT1s1882.wav,neutral,two thousand two,conversation,male
+datasources\LDC_male\wav\1NT1s3360.wav,neutral,march twenty-sixth,conversation,male
+datasources\LDC_male\wav\1NT1s3420.wav,neutral,may twenty-fourth,conversation,male
+datasources\LDC_male\wav\1NT1s3510.wav,neutral,seventy-six,conversation,male
+datasources\LDC_male\wav\1NT2s0100.wav,neutral,april fifteenth,distant,male
+datasources\LDC_male\wav\1NT2s0120.wav,neutral,five thousand twelve,distant,male
+datasources\LDC_male\wav\1NT2s0200.wav,neutral,two hundred one,distant,male
+datasources\LDC_male\wav\1NT2s0201.wav,neutral,two hundred one,distant,male
+datasources\LDC_male\wav\1NT2s0290.wav,neutral,sixteen hundred,distant,male
+datasources\LDC_male\wav\1NT2s0291.wav,neutral,sixteen hundred,distant,male
+datasources\LDC_male\wav\1NT2s0340.wav,neutral,july second,distant,male
+datasources\LDC_male\wav\1NT2s0360.wav,neutral,nine hundred one,distant,male
+datasources\LDC_male\wav\1NT2s0800.wav,neutral,five hundred twelve,distant,male
+datasources\LDC_male\wav\1NT2s0801.wav,neutral,five hundred twelve,distant,male
+datasources\LDC_male\wav\1NT2s0860.wav,neutral,three thousand six,distant,male
+datasources\LDC_male\wav\1NT2s0861.wav,neutral,three thousand six,distant,male
+datasources\LDC_male\wav\1NT2s0862.wav,neutral,three thousand six,distant,male
+datasources\LDC_male\wav\1NT2s1120.wav,neutral,september first,distant,male
+datasources\LDC_male\wav\1NT2s1130.wav,neutral,six thousand five,distant,male
+datasources\LDC_male\wav\1NT2s1150.wav,neutral,fifteen hundred,distant,male
+datasources\LDC_male\wav\1NT2s1220.wav,neutral,three hundred six,distant,male
+datasources\LDC_male\wav\1NT2s1260.wav,neutral,august nineteenth,distant,male
+datasources\LDC_male\wav\1NT2s1261.wav,neutral,august nineteenth,distant,male
+datasources\LDC_male\wav\1NT2s1290.wav,neutral,december sixth,distant,male
+datasources\LDC_male\wav\1NT2s1300.wav,neutral,eight hundred nine,distant,male
+datasources\LDC_male\wav\1NT2s1390.wav,neutral,four hundred three,distant,male
+datasources\LDC_male\wav\1NT2s1420.wav,neutral,four thousand three,distant,male
+datasources\LDC_male\wav\1NT2s1480.wav,neutral,march twentieth,distant,male
+datasources\LDC_male\wav\1NT2s1481.wav,neutral,march twentieth,distant,male
+datasources\LDC_male\wav\1NT2s1500.wav,neutral,may thirtieth,distant,male
+datasources\LDC_male\wav\1NT2s1530.wav,neutral,nine thousand one,distant,male
+datasources\LDC_male\wav\1NT2s1560.wav,neutral,november eighth,distant,male
+datasources\LDC_male\wav\1NT2s1590.wav,neutral,october fifth,distant,male
+datasources\LDC_male\wav\1NT2s1591.wav,neutral,october fifth,distant,male
+datasources\LDC_male\wav\1NT2s1600.wav,neutral,one hundred four,distant,male
+datasources\LDC_male\wav\1NT2s1601.wav,neutral,one hundred four,distant,male
+datasources\LDC_male\wav\1NT2s1630.wav,neutral,one thousand four,distant,male
+datasources\LDC_male\wav\1NT2s1700.wav,neutral,six hundred five,distant,male
+datasources\LDC_male\wav\1NT2s1701.wav,neutral,six hundred five,distant,male
+datasources\LDC_male\wav\1NT2s1750.wav,neutral,ten thousand twelve,distant,male
+datasources\LDC_male\wav\1NT2s1820.wav,neutral,two thousand four,distant,male
+datasources\LDC_male\wav\1NT2s1860.wav,neutral,two thousand three,distant,male
+datasources\LDC_male\wav\1NT2s3240.wav,neutral,june twenty-fifth,distant,male
+datasources\LDC_male\wav\1NT2s3460.wav,neutral,seventy-eight,distant,male
+datasources\LDC_male\wav\1NT3s0160.wav,neutral,october sixth,tete a tete,male
+datasources\LDC_male\wav\1NT3s0180.wav,neutral,six hundred six,tete a tete,male
+datasources\LDC_male\wav\1NT3s0181.wav,neutral,six hundred six,tete a tete,male
+datasources\LDC_male\wav\1NT3s0320.wav,neutral,eight thousand three,tete a tete,male
+datasources\LDC_male\wav\1NT3s1080.wav,neutral,june eleventh,tete a tete,male
+datasources\LDC_male\wav\1NT3s1100.wav,neutral,nine hundred twelve,tete a tete,male
+datasources\LDC_male\wav\1NT3s1190.wav,neutral,one thousand ten,tete a tete,male
+datasources\LDC_male\wav\1NT3s1240.wav,neutral,april seventh,tete a tete,male
+datasources\LDC_male\wav\1NT3s1241.wav,neutral,april seventh,tete a tete,male
+datasources\LDC_male\wav\1NT3s1270.wav,neutral,august thirteenth,tete a tete,male
+datasources\LDC_male\wav\1NT3s1310.wav,neutral,eight hundred three,tete a tete,male
+datasources\LDC_male\wav\1NT3s1340.wav,neutral,february,tete a tete,male
+datasources\LDC_male\wav\1NT3s1350.wav,neutral,five hundred four,tete a tete,male
+datasources\LDC_male\wav\1NT3s1380.wav,neutral,four hundred five,tete a tete,male
+datasources\LDC_male\wav\1NT3s1400.wav,neutral,four thousand five,tete a tete,male
+datasources\LDC_male\wav\1NT3s1430.wav,neutral,fourteen hundred,tete a tete,male
+datasources\LDC_male\wav\1NT3s1540.wav,neutral,nine thousand twelve,tete a tete,male
+datasources\LDC_male\wav\1NT3s1570.wav,neutral,november ninth,tete a tete,male
+datasources\LDC_male\wav\1NT3s1610.wav,neutral,one hundred ten,tete a tete,male
+datasources\LDC_male\wav\1NT3s1611.wav,neutral,one hundred ten,tete a tete,male
+datasources\LDC_male\wav\1NT3s1660.wav,neutral,september tenth,tete a tete,male
+datasources\LDC_male\wav\1NT3s1661.wav,neutral,september tenth,tete a tete,male
+datasources\LDC_male\wav\1NT3s1710.wav,neutral,six thousand six,tete a tete,male
+datasources\LDC_male\wav\1NT3s1730.wav,neutral,ten thousand four,tete a tete,male
+datasources\LDC_male\wav\1NT3s1770.wav,neutral,three hundred two,tete a tete,male
+datasources\LDC_male\wav\1NT3s1790.wav,neutral,three thousand two,tete a tete,male
+datasources\LDC_male\wav\1NT3s1810.wav,neutral,two hundred twelve,tete a tete,male
+datasources\LDC_male\wav\1NT3s1840.wav,neutral,two thousand one,tete a tete,male
+datasources\LDC_male\wav\1NT3s3280.wav,neutral,june twenty-sixth,tete a tete,male
+datasources\LDC_male\wav\1NT3s3340.wav,neutral,march twenty-fourth,tete a tete,male
+datasources\LDC_male\wav\1NT3s3400.wav,neutral,may twenty-fifth,tete a tete,male
+datasources\LDC_male\wav\1NT3s3500.wav,neutral,seventy-one,tete a tete,male
+datasources\LDC_male\wav\1NT3s3550.wav,neutral,thirty-seven,tete a tete,male
+datasources\LDC_male\wav\1SN1s2190.wav,sadness,august second,conversation,male
+datasources\LDC_male\wav\1SN1s2191.wav,sadness,august second,conversation,male
+datasources\LDC_male\wav\1SN1s2200.wav,sadness,five hundred five,conversation,male
+datasources\LDC_male\wav\1SN1s2210.wav,sadness,four hundred twelve,conversation,male
+datasources\LDC_male\wav\1SN1s2230.wav,sadness,nine hundred nine,conversation,male
+datasources\LDC_male\wav\1SN1s2231.wav,sadness,nine hundred nine,conversation,male
+datasources\LDC_male\wav\1SN1s2240.wav,sadness,one thousand two,conversation,male
+datasources\LDC_male\wav\1SN1s2250.wav,sadness,september third,conversation,male
+datasources\LDC_male\wav\1SN1s2251.wav,sadness,september third,conversation,male
+datasources\LDC_male\wav\1SN1s2260.wav,sadness,six thousand ten,conversation,male
+datasources\LDC_male\wav\1SN1s2280.wav,sadness,three hundred twelve,conversation,male
+datasources\LDC_male\wav\1SN1s3430.wav,sadness,may twenty-ninth,conversation,male
+datasources\LDC_male\wav\1SN1s3431.wav,sadness,may twenty-ninth,conversation,male
+datasources\LDC_male\wav\2AX1s2290.wav,anxiety,april eighteenth,conversation,male
+datasources\LDC_male\wav\2AX1s2291.wav,anxiety,april eighteenth,conversation,male
+datasources\LDC_male\wav\2AX1s2300.wav,anxiety,eight thousand one,conversation,male
+datasources\LDC_male\wav\2AX1s2301.wav,anxiety,eight thousand one,conversation,male
+datasources\LDC_male\wav\2AX1s2302.wav,anxiety,eight thousand one,conversation,male
+datasources\LDC_male\wav\2AX1s2310.wav,anxiety,five thousand three,conversation,male
+datasources\LDC_male\wav\2AX1s2311.wav,anxiety,five thousand three,conversation,male
+datasources\LDC_male\wav\2AX1s2330.wav,anxiety,nine hundred five,conversation,male
+datasources\LDC_male\wav\2AX1s2331.wav,anxiety,nine hundred five,conversation,male
+datasources\LDC_male\wav\2AX1s2340.wav,anxiety,october ninth,conversation,male
+datasources\LDC_male\wav\2AX1s2341.wav,anxiety,october ninth,conversation,male
+datasources\LDC_male\wav\2AX1s2350.wav,anxiety,one hundred three,conversation,male
+datasources\LDC_male\wav\2AX1s2360.wav,anxiety,ten thousand two,conversation,male
+datasources\LDC_male\wav\2AX1s2361.wav,anxiety,ten thousand two,conversation,male
+datasources\LDC_male\wav\2AX1s2370.wav,anxiety,two hundred nine,conversation,male
+datasources\LDC_male\wav\2AX1s2371.wav,anxiety,two hundred nine,conversation,male
+datasources\LDC_male\wav\2AX1s2630.wav,anxiety,six hundred one,conversation,male
+datasources\LDC_male\wav\2AX1s2980.wav,anxiety,july fifteenth,conversation,male
+datasources\LDC_male\wav\2AX1s3350.wav,anxiety,march twenty-ninth,conversation,male
+datasources\LDC_male\wav\2AX1s3351.wav,anxiety,march twenty-ninth,conversation,male
+datasources\LDC_male\wav\2AX1s3352.wav,anxiety,march twenty-ninth,conversation,male
+datasources\LDC_male\wav\2BD1s0550.wav,boredom,eight hundred five,conversation,male
+datasources\LDC_male\wav\2BD1s0551.wav,boredom,eight hundred five,conversation,male
+datasources\LDC_male\wav\2BD1s0552.wav,boredom,eight hundred five,conversation,male
+datasources\LDC_male\wav\2BD1s0720.wav,boredom,six thousand two,conversation,male
+datasources\LDC_male\wav\2BD1s0721.wav,boredom,six thousand two,conversation,male
+datasources\LDC_male\wav\2BD1s0722.wav,boredom,six thousand two,conversation,male
+datasources\LDC_male\wav\2BD1s1270.wav,boredom,august thirteenth,conversation,male
+datasources\LDC_male\wav\2BD1s1271.wav,boredom,august thirteenth,conversation,male
+datasources\LDC_male\wav\2BD1s1360.wav,boredom,five hundred one,conversation,male
+datasources\LDC_male\wav\2BD1s1361.wav,boredom,five hundred one,conversation,male
+datasources\LDC_male\wav\2BD1s1400.wav,boredom,four thousand five,conversation,male
+datasources\LDC_male\wav\2BD1s1401.wav,boredom,four thousand five,conversation,male
+datasources\LDC_male\wav\2BD1s1402.wav,boredom,four thousand five,conversation,male
+datasources\LDC_male\wav\2BD1s1403.wav,boredom,four thousand five,conversation,male
+datasources\LDC_male\wav\2BD1s1560.wav,boredom,november eighth,conversation,male
+datasources\LDC_male\wav\2BD1s1561.wav,boredom,november eighth,conversation,male
+datasources\LDC_male\wav\2BD1s1780.wav,boredom,three thousand five,conversation,male
+datasources\LDC_male\wav\2BD1s1781.wav,boredom,three thousand five,conversation,male
+datasources\LDC_male\wav\2BD1s1782.wav,boredom,three thousand five,conversation,male
+datasources\LDC_male\wav\2BD1s1783.wav,boredom,three thousand five,conversation,male
+datasources\LDC_male\wav\2BD1s2090.wav,boredom,nine thousand ten,conversation,male
+datasources\LDC_male\wav\2BD1s2091.wav,boredom,nine thousand ten,conversation,male
+datasources\LDC_male\wav\2BD1s2092.wav,boredom,nine thousand ten,conversation,male
+datasources\LDC_male\wav\2BD1s2093.wav,boredom,nine thousand ten,conversation,male
+datasources\LDC_male\wav\2BD1s3260.wav,boredom,june twenty-fourth,conversation,male
+datasources\LDC_male\wav\2BD1s3261.wav,boredom,june twenty-fourth,conversation,male
+datasources\LDC_male\wav\2BD1s3262.wav,boredom,june twenty-fourth,conversation,male
+datasources\LDC_male\wav\2BD1s3460.wav,boredom,seventy-eight,conversation,male
+datasources\LDC_male\wav\2BD1s3461.wav,boredom,seventy-eight,conversation,male
+datasources\LDC_male\wav\2DG1s2460.wav,disgust,december first,conversation,male
+datasources\LDC_male\wav\2DG1s2461.wav,disgust,december first,conversation,male
+datasources\LDC_male\wav\2DG1s2470.wav,disgust,eight hundred one,conversation,male
+datasources\LDC_male\wav\2DG1s2471.wav,disgust,eight hundred one,conversation,male
+datasources\LDC_male\wav\2DG1s2480.wav,disgust,five hundred three,conversation,male
+datasources\LDC_male\wav\2DG1s2481.wav,disgust,five hundred three,conversation,male
+datasources\LDC_male\wav\2DG1s2482.wav,disgust,five hundred three,conversation,male
+datasources\LDC_male\wav\2DG1s2483.wav,disgust,five hundred three,conversation,male
+datasources\LDC_male\wav\2DG1s2490.wav,disgust,four thousand one,conversation,male
+datasources\LDC_male\wav\2DG1s2491.wav,disgust,four thousand one,conversation,male
+datasources\LDC_male\wav\2DG1s2510.wav,disgust,nine thousand two,conversation,male
+datasources\LDC_male\wav\2DG1s2511.wav,disgust,nine thousand two,conversation,male
+datasources\LDC_male\wav\2DG1s2520.wav,disgust,november fourth,conversation,male
+datasources\LDC_male\wav\2DG1s2521.wav,disgust,november fourth,conversation,male
+datasources\LDC_male\wav\2DG1s2550.wav,disgust,three thousand one,conversation,male
+datasources\LDC_male\wav\2DG1s2551.wav,disgust,three thousand one,conversation,male
+datasources\LDC_male\wav\2DG1s3290.wav,disgust,june twenty-third,conversation,male
+datasources\LDC_male\wav\2DG1s3291.wav,disgust,june twenty-third,conversation,male
+datasources\LDC_male\wav\2DG1s3490.wav,disgust,seventy-nine,conversation,male
+datasources\LDC_male\wav\2DG1s3491.wav,disgust,seventy-nine,conversation,male
+datasources\LDC_male\wav\2DG1s3540.wav,disgust,sixty-seven,conversation,male
+datasources\LDC_male\wav\2DG1s3541.wav,disgust,sixty-seven,conversation,male
+datasources\LDC_male\wav\2HA1s1140.wav,hot anger,two thousand eight,conversation,male
+datasources\LDC_male\wav\2HA1s1141.wav,hot anger,two thousand eight,conversation,male
+datasources\LDC_male\wav\2HA1s1150.wav,hot anger,fifteen hundred,conversation,male
+datasources\LDC_male\wav\2HA1s1151.wav,hot anger,fifteen hundred,conversation,male
+datasources\LDC_male\wav\2HA1s2620.wav,hot anger,one thousand six,conversation,male
+datasources\LDC_male\wav\2HA1s2621.wav,hot anger,one thousand six,conversation,male
+datasources\LDC_male\wav\2HA1s2622.wav,hot anger,one thousand six,conversation,male
+datasources\LDC_male\wav\2HA1s2720.wav,hot anger,august eighteenth,conversation,male
+datasources\LDC_male\wav\2HA1s2721.wav,hot anger,august eighteenth,conversation,male
+datasources\LDC_male\wav\2HA1s2730.wav,hot anger,four hundred one,conversation,male
+datasources\LDC_male\wav\2HA1s2731.wav,hot anger,four hundred one,conversation,male
+datasources\LDC_male\wav\2HA1s2740.wav,hot anger,june seventeenth,conversation,male
+datasources\LDC_male\wav\2HA1s2741.wav,hot anger,june seventeenth,conversation,male
+datasources\LDC_male\wav\2HA1s2742.wav,hot anger,june seventeenth,conversation,male
+datasources\LDC_male\wav\2HA1s2750.wav,hot anger,nine hundred two,conversation,male
+datasources\LDC_male\wav\2HA1s2751.wav,hot anger,nine hundred two,conversation,male
+datasources\LDC_male\wav\2HA1s2760.wav,hot anger,september fourth,conversation,male
+datasources\LDC_male\wav\2HA1s2761.wav,hot anger,september fourth,conversation,male
+datasources\LDC_male\wav\2HA1s2770.wav,hot anger,six thousand four,conversation,male
+datasources\LDC_male\wav\2HA1s2771.wav,hot anger,six thousand four,conversation,male
+datasources\LDC_male\wav\2HA1s2772.wav,hot anger,six thousand four,conversation,male
+datasources\LDC_male\wav\2HA1s2780.wav,hot anger,three hundred one,conversation,male
+datasources\LDC_male\wav\2HA1s2781.wav,hot anger,three hundred one,conversation,male
+datasources\LDC_male\wav\2HA1s3390.wav,hot anger,may twenty-eighth,conversation,male
+datasources\LDC_male\wav\2HA1s3391.wav,hot anger,may twenty-eighth,conversation,male
+datasources\LDC_male\wav\2HA1s3392.wav,hot anger,may twenty-eighth,conversation,male
+datasources\LDC_male\wav\2HP1s0630.wav,happy,march thirtieth,conversation,male
+datasources\LDC_male\wav\2HP1s0631.wav,happy,march thirtieth,conversation,male
+datasources\LDC_male\wav\2HP1s0670.wav,happy,one hundred eight,conversation,male
+datasources\LDC_male\wav\2HP1s0671.wav,happy,one hundred eight,conversation,male
+datasources\LDC_male\wav\2HP1s1290.wav,happy,december sixth,conversation,male
+datasources\LDC_male\wav\2HP1s1291.wav,happy,december sixth,conversation,male
+datasources\LDC_male\wav\2HP1s1310.wav,happy,eight hundred three,conversation,male
+datasources\LDC_male\wav\2HP1s1311.wav,happy,eight hundred three,conversation,male
+datasources\LDC_male\wav\2HP1s1420.wav,happy,four thousand three,conversation,male
+datasources\LDC_male\wav\2HP1s1421.wav,happy,four thousand three,conversation,male
+datasources\LDC_male\wav\2HP1s1580.wav,happy,november tenth,conversation,male
+datasources\LDC_male\wav\2HP1s1581.wav,happy,november tenth,conversation,male
+datasources\LDC_male\wav\2HP1s1582.wav,happy,november tenth,conversation,male
+datasources\LDC_male\wav\2HP1s1730.wav,happy,ten thousand four,conversation,male
+datasources\LDC_male\wav\2HP1s1731.wav,happy,ten thousand four,conversation,male
+datasources\LDC_male\wav\2HP1s2030.wav,happy,five thousand eight,conversation,male
+datasources\LDC_male\wav\2HP1s2031.wav,happy,five thousand eight,conversation,male
+datasources\LDC_male\wav\2HP1s2170.wav,happy,three thousand three,conversation,male
+datasources\LDC_male\wav\2HP1s2171.wav,happy,three thousand three,conversation,male
+datasources\LDC_male\wav\2HP1s3510.wav,happy,seventy-six,conversation,male
+datasources\LDC_male\wav\2HP1s3511.wav,happy,seventy-six,conversation,male
+datasources\LDC_male\wav\2NT1s0060.wav,neutral,nine thousand six,conversation,male
+datasources\LDC_male\wav\2NT1s0061.wav,neutral,nine thousand six,conversation,male
+datasources\LDC_male\wav\2NT1s0062.wav,neutral,nine thousand six,conversation,male
+datasources\LDC_male\wav\2NT1s0270.wav,neutral,november fifth,conversation,male
+datasources\LDC_male\wav\2NT1s0271.wav,neutral,november fifth,conversation,male
+datasources\LDC_male\wav\2NT1s0272.wav,neutral,november fifth,conversation,male
+datasources\LDC_male\wav\2NT1s0470.wav,neutral,nine hundred six,conversation,male
+datasources\LDC_male\wav\2NT1s0471.wav,neutral,nine hundred six,conversation,male
+datasources\LDC_male\wav\2NT1s0780.wav,neutral,two thousand ten,conversation,male
+datasources\LDC_male\wav\2NT1s0781.wav,neutral,two thousand ten,conversation,male
+datasources\LDC_male\wav\2NT1s0782.wav,neutral,two thousand ten,conversation,male
+datasources\LDC_male\wav\2NT1s0890.wav,neutral,five hundred two,conversation,male
+datasources\LDC_male\wav\2NT1s0891.wav,neutral,five hundred two,conversation,male
+datasources\LDC_male\wav\2NT1s0940.wav,neutral,three thousand ten,conversation,male
+datasources\LDC_male\wav\2NT1s0941.wav,neutral,three thousand ten,conversation,male
+datasources\LDC_male\wav\2NT1s0942.wav,neutral,three thousand ten,conversation,male
+datasources\LDC_male\wav\2NT1s0950.wav,neutral,december tenth,conversation,male
+datasources\LDC_male\wav\2NT1s0951.wav,neutral,december tenth,conversation,male
+datasources\LDC_male\wav\2NT1s0980.wav,neutral,four thousand twelve,conversation,male
+datasources\LDC_male\wav\2NT1s0981.wav,neutral,four thousand twelve,conversation,male
+datasources\LDC_male\wav\2NT1s0982.wav,neutral,four thousand twelve,conversation,male
+datasources\LDC_male\wav\2NT1s1820.wav,neutral,two thousand four,conversation,male
+datasources\LDC_male\wav\2NT1s1821.wav,neutral,two thousand four,conversation,male
+datasources\LDC_male\wav\2NT1s1822.wav,neutral,two thousand four,conversation,male
+datasources\LDC_male\wav\2NT1s1823.wav,neutral,two thousand four,conversation,male
+datasources\LDC_male\wav\2NT1s1830.wav,neutral,two thousand nine,conversation,male
+datasources\LDC_male\wav\2NT1s1831.wav,neutral,two thousand nine,conversation,male
+datasources\LDC_male\wav\2NT1s1832.wav,neutral,two thousand nine,conversation,male
+datasources\LDC_male\wav\2NT1s1840.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\2NT1s1850.wav,neutral,two thousand six,conversation,male
+datasources\LDC_male\wav\2NT1s1851.wav,neutral,two thousand six,conversation,male
+datasources\LDC_male\wav\2NT1s1852.wav,neutral,two thousand six,conversation,male
+datasources\LDC_male\wav\2NT1s1860.wav,neutral,two thousand three,conversation,male
+datasources\LDC_male\wav\2NT1s1861.wav,neutral,two thousand three,conversation,male
+datasources\LDC_male\wav\2NT1s1870.wav,neutral,two thousand twelve,conversation,male
+datasources\LDC_male\wav\2NT1s1871.wav,neutral,two thousand twelve,conversation,male
+datasources\LDC_male\wav\2NT1s1872.wav,neutral,two thousand twelve,conversation,male
+datasources\LDC_male\wav\2NT1s1880.wav,neutral,two thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s1881.wav,neutral,two thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s1970.wav,neutral,three hundred ten,conversation,male
+datasources\LDC_male\wav\2NT1s1971.wav,neutral,three hundred ten,conversation,male
+datasources\LDC_male\wav\2NT1s1972.wav,neutral,three hundred ten,conversation,male
+datasources\LDC_male\wav\2NT1s2120.wav,neutral,one hundred nine,conversation,male
+datasources\LDC_male\wav\2NT1s2121.wav,neutral,one hundred nine,conversation,male
+datasources\LDC_male\wav\2NT1s2122.wav,neutral,one hundred nine,conversation,male
+datasources\LDC_male\wav\2NT1s2190.wav,neutral,august second,conversation,male
+datasources\LDC_male\wav\2NT1s2191.wav,neutral,august second,conversation,male
+datasources\LDC_male\wav\2NT1s2210.wav,neutral,four hundred twelve,conversation,male
+datasources\LDC_male\wav\2NT1s2211.wav,neutral,four hundred twelve,conversation,male
+datasources\LDC_male\wav\2NT1s2300.wav,neutral,eight thousand one,conversation,male
+datasources\LDC_male\wav\2NT1s2301.wav,neutral,eight thousand one,conversation,male
+datasources\LDC_male\wav\2NT1s2360.wav,neutral,ten thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s2361.wav,neutral,ten thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s2362.wav,neutral,ten thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s2363.wav,neutral,ten thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s2380.wav,neutral,april fourteenth,conversation,male
+datasources\LDC_male\wav\2NT1s2381.wav,neutral,april fourteenth,conversation,male
+datasources\LDC_male\wav\2NT1s2382.wav,neutral,april fourteenth,conversation,male
+datasources\LDC_male\wav\2NT1s2400.wav,neutral,five thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s2401.wav,neutral,five thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s2402.wav,neutral,five thousand two,conversation,male
+datasources\LDC_male\wav\2NT1s2450.wav,neutral,two hundred six,conversation,male
+datasources\LDC_male\wav\2NT1s2451.wav,neutral,two hundred six,conversation,male
+datasources\LDC_male\wav\2NT1s2470.wav,neutral,eight hundred one,conversation,male
+datasources\LDC_male\wav\2NT1s2471.wav,neutral,eight hundred one,conversation,male
+datasources\LDC_male\wav\2NT1s2670.wav,neutral,one thousand nine,conversation,male
+datasources\LDC_male\wav\2NT1s2671.wav,neutral,one thousand nine,conversation,male
+datasources\LDC_male\wav\2NT1s2672.wav,neutral,one thousand nine,conversation,male
+datasources\LDC_male\wav\2NT1s2760.wav,neutral,september fourth,conversation,male
+datasources\LDC_male\wav\2NT1s2761.wav,neutral,september fourth,conversation,male
+datasources\LDC_male\wav\2NT1s2770.wav,neutral,six thousand four,conversation,male
+datasources\LDC_male\wav\2NT1s2771.wav,neutral,six thousand four,conversation,male
+datasources\LDC_male\wav\2NT1s2772.wav,neutral,six thousand four,conversation,male
+datasources\LDC_male\wav\2NT1s2890.wav,neutral,october first,conversation,male
+datasources\LDC_male\wav\2NT1s2891.wav,neutral,october first,conversation,male
+datasources\LDC_male\wav\2NT1s2910.wav,neutral,six hundred four,conversation,male
+datasources\LDC_male\wav\2NT1s2911.wav,neutral,six hundred four,conversation,male
+datasources\LDC_male\wav\2NT1s3200.wav,neutral,fifty-seven,conversation,male
+datasources\LDC_male\wav\2NT1s3201.wav,neutral,fifty-seven,conversation,male
+datasources\LDC_male\wav\2NT1s3202.wav,neutral,fifty-seven,conversation,male
+datasources\LDC_male\wav\2NT1s3250.wav,neutral,june twenty-first,conversation,male
+datasources\LDC_male\wav\2NT1s3251.wav,neutral,june twenty-first,conversation,male
+datasources\LDC_male\wav\2NT1s3252.wav,neutral,june twenty-first,conversation,male
+datasources\LDC_male\wav\2NT1s3310.wav,neutral,march twenty-eighth,conversation,male
+datasources\LDC_male\wav\2NT1s3311.wav,neutral,march twenty-eighth,conversation,male
+datasources\LDC_male\wav\2NT1s3380.wav,neutral,may thirty-first,conversation,male
+datasources\LDC_male\wav\2NT1s3381.wav,neutral,may thirty-first,conversation,male
+datasources\LDC_male\wav\2NT1s3470.wav,neutral,seventy-five,conversation,male
+datasources\LDC_male\wav\2NT1s3471.wav,neutral,seventy-five,conversation,male
+datasources\LDC_male\wav\2NT1s3472.wav,neutral,seventy-five,conversation,male
+datasources\LDC_male\wav\2NT1s3540.wav,neutral,sixty-seven,conversation,male
+datasources\LDC_male\wav\2NT1s3541.wav,neutral,sixty-seven,conversation,male
+datasources\LDC_male\wav\2NT2s0030.wav,neutral,five hundred nine,distant,male
+datasources\LDC_male\wav\2NT2s0031.wav,neutral,five hundred nine,distant,male
+datasources\LDC_male\wav\2NT2s0090.wav,neutral,three thousand eight,distant,male
+datasources\LDC_male\wav\2NT2s0091.wav,neutral,three thousand eight,distant,male
+datasources\LDC_male\wav\2NT2s0092.wav,neutral,three thousand eight,distant,male
+datasources\LDC_male\wav\2NT2s0210.wav,neutral,december eighth,distant,male
+datasources\LDC_male\wav\2NT2s0211.wav,neutral,december eighth,distant,male
+datasources\LDC_male\wav\2NT2s0240.wav,neutral,four thousand four,distant,male
+datasources\LDC_male\wav\2NT2s0241.wav,neutral,four thousand four,distant,male
+datasources\LDC_male\wav\2NT2s0242.wav,neutral,four thousand four,distant,male
+datasources\LDC_male\wav\2NT2s0243.wav,neutral,four thousand four,distant,male
+datasources\LDC_male\wav\2NT2s0430.wav,neutral,eight thousand twelve,distant,male
+datasources\LDC_male\wav\2NT2s0431.wav,neutral,eight thousand twelve,distant,male
+datasources\LDC_male\wav\2NT2s0432.wav,neutral,eight thousand twelve,distant,male
+datasources\LDC_male\wav\2NT2s0510.wav,neutral,three hundred eight,distant,male
+datasources\LDC_male\wav\2NT2s0511.wav,neutral,three hundred eight,distant,male
+datasources\LDC_male\wav\2NT2s0512.wav,neutral,three hundred eight,distant,male
+datasources\LDC_male\wav\2NT2s0920.wav,neutral,november sixth,distant,male
+datasources\LDC_male\wav\2NT2s0921.wav,neutral,november sixth,distant,male
+datasources\LDC_male\wav\2NT2s0922.wav,neutral,november sixth,distant,male
+datasources\LDC_male\wav\2NT2s0960.wav,neutral,eight hundred twelve,distant,male
+datasources\LDC_male\wav\2NT2s0961.wav,neutral,eight hundred twelve,distant,male
+datasources\LDC_male\wav\2NT2s0962.wav,neutral,eight hundred twelve,distant,male
+datasources\LDC_male\wav\2NT2s0963.wav,neutral,eight hundred twelve,distant,male
+datasources\LDC_male\wav\2NT2s1030.wav,neutral,ten thousand nine,distant,male
+datasources\LDC_male\wav\2NT2s1031.wav,neutral,ten thousand nine,distant,male
+datasources\LDC_male\wav\2NT2s1032.wav,neutral,ten thousand nine,distant,male
+datasources\LDC_male\wav\2NT2s1840.wav,neutral,two thousand one,distant,male
+datasources\LDC_male\wav\2NT2s1841.wav,neutral,two thousand one,distant,male
+datasources\LDC_male\wav\2NT2s1842.wav,neutral,two thousand one,distant,male
+datasources\LDC_male\wav\2NT2s1940.wav,neutral,one thousand three,distant,male
+datasources\LDC_male\wav\2NT2s1941.wav,neutral,one thousand three,distant,male
+datasources\LDC_male\wav\2NT2s2250.wav,neutral,september third,distant,male
+datasources\LDC_male\wav\2NT2s2251.wav,neutral,september third,distant,male
+datasources\LDC_male\wav\2NT2s2252.wav,neutral,september third,distant,male
+datasources\LDC_male\wav\2NT2s2260.wav,neutral,six thousand ten,distant,male
+datasources\LDC_male\wav\2NT2s2261.wav,neutral,six thousand ten,distant,male
+datasources\LDC_male\wav\2NT2s2262.wav,neutral,six thousand ten,distant,male
+datasources\LDC_male\wav\2NT2s2350.wav,neutral,one hundred three,distant,male
+datasources\LDC_male\wav\2NT2s2351.wav,neutral,one hundred three,distant,male
+datasources\LDC_male\wav\2NT2s2352.wav,neutral,one hundred three,distant,male
+datasources\LDC_male\wav\2NT2s2353.wav,neutral,one hundred three,distant,male
+datasources\LDC_male\wav\2NT2s2420.wav,neutral,october tenth,distant,male
+datasources\LDC_male\wav\2NT2s2421.wav,neutral,october tenth,distant,male
+datasources\LDC_male\wav\2NT2s2440.wav,neutral,six hundred ten,distant,male
+datasources\LDC_male\wav\2NT2s2441.wav,neutral,six hundred ten,distant,male
+datasources\LDC_male\wav\2NT2s2510.wav,neutral,nine thousand two,distant,male
+datasources\LDC_male\wav\2NT2s2511.wav,neutral,nine thousand two,distant,male
+datasources\LDC_male\wav\2NT2s2640.wav,neutral,april sixteenth,distant,male
+datasources\LDC_male\wav\2NT2s2641.wav,neutral,april sixteenth,distant,male
+datasources\LDC_male\wav\2NT2s2650.wav,neutral,four hundred four,distant,male
+datasources\LDC_male\wav\2NT2s2651.wav,neutral,four hundred four,distant,male
+datasources\LDC_male\wav\2NT2s2652.wav,neutral,four hundred four,distant,male
+datasources\LDC_male\wav\2NT2s2710.wav,neutral,two hundred two,distant,male
+datasources\LDC_male\wav\2NT2s2711.wav,neutral,two hundred two,distant,male
+datasources\LDC_male\wav\2NT2s2712.wav,neutral,two hundred two,distant,male
+datasources\LDC_male\wav\2NT2s2713.wav,neutral,two hundred two,distant,male
+datasources\LDC_male\wav\2NT2s2740.wav,neutral,june seventeenth,distant,male
+datasources\LDC_male\wav\2NT2s2741.wav,neutral,june seventeenth,distant,male
+datasources\LDC_male\wav\2NT2s2742.wav,neutral,june seventeenth,distant,male
+datasources\LDC_male\wav\2NT2s2750.wav,neutral,nine hundred two,distant,male
+datasources\LDC_male\wav\2NT2s2751.wav,neutral,nine hundred two,distant,male
+datasources\LDC_male\wav\2NT2s2752.wav,neutral,nine hundred two,distant,male
+datasources\LDC_male\wav\2NT2s2810.wav,neutral,five thousand nine,distant,male
+datasources\LDC_male\wav\2NT2s2811.wav,neutral,five thousand nine,distant,male
+datasources\LDC_male\wav\2NT2s2812.wav,neutral,five thousand nine,distant,male
+datasources\LDC_male\wav\2NT2s2820.wav,neutral,fourteen sixty,distant,male
+datasources\LDC_male\wav\2NT2s2821.wav,neutral,fourteen sixty,distant,male
+datasources\LDC_male\wav\2NT2s2830.wav,neutral,january,distant,male
+datasources\LDC_male\wav\2NT2s2831.wav,neutral,january,distant,male
+datasources\LDC_male\wav\2NT2s2832.wav,neutral,january,distant,male
+datasources\LDC_male\wav\2NT2s2930.wav,neutral,twelve and a half,distant,male
+datasources\LDC_male\wav\2NT2s2931.wav,neutral,twelve and a half,distant,male
+datasources\LDC_male\wav\2NT2s2932.wav,neutral,twelve and a half,distant,male
+datasources\LDC_male\wav\2NT2s2933.wav,neutral,twelve and a half,distant,male
+datasources\LDC_male\wav\2NT2s3290.wav,neutral,june twenty-third,distant,male
+datasources\LDC_male\wav\2NT2s3291.wav,neutral,june twenty-third,distant,male
+datasources\LDC_male\wav\2NT2s3350.wav,neutral,march twenty-ninth,distant,male
+datasources\LDC_male\wav\2NT2s3351.wav,neutral,march twenty-ninth,distant,male
+datasources\LDC_male\wav\2NT2s3352.wav,neutral,march twenty-ninth,distant,male
+datasources\LDC_male\wav\2NT2s3410.wav,neutral,may twenty-first,distant,male
+datasources\LDC_male\wav\2NT2s3411.wav,neutral,may twenty-first,distant,male
+datasources\LDC_male\wav\2NT2s3500.wav,neutral,seventy-one,distant,male
+datasources\LDC_male\wav\2NT2s3501.wav,neutral,seventy-one,distant,male
+datasources\LDC_male\wav\2NT2s3502.wav,neutral,seventy-one,distant,male
+datasources\LDC_male\wav\2NT3s0070.wav,neutral,seven hundred,tete a tete,male
+datasources\LDC_male\wav\2NT3s0071.wav,neutral,seven hundred,tete a tete,male
+datasources\LDC_male\wav\2NT3s0072.wav,neutral,seven hundred,tete a tete,male
+datasources\LDC_male\wav\2NT3s0220.wav,neutral,eight hundred four,tete a tete,male
+datasources\LDC_male\wav\2NT3s0221.wav,neutral,eight hundred four,tete a tete,male
+datasources\LDC_male\wav\2NT3s0290.wav,neutral,sixteen hundred,tete a tete,male
+datasources\LDC_male\wav\2NT3s0291.wav,neutral,sixteen hundred,tete a tete,male
+datasources\LDC_male\wav\2NT3s0292.wav,neutral,sixteen hundred,tete a tete,male
+datasources\LDC_male\wav\2NT3s0460.wav,neutral,may seventeenth,tete a tete,male
+datasources\LDC_male\wav\2NT3s0461.wav,neutral,may seventeenth,tete a tete,male
+datasources\LDC_male\wav\2NT3s0490.wav,neutral,one thousand five,tete a tete,male
+datasources\LDC_male\wav\2NT3s0491.wav,neutral,one thousand five,tete a tete,male
+datasources\LDC_male\wav\2NT3s0492.wav,neutral,one thousand five,tete a tete,male
+datasources\LDC_male\wav\2NT3s0493.wav,neutral,one thousand five,tete a tete,male
+datasources\LDC_male\wav\2NT3s0770.wav,neutral,two thousand five,tete a tete,male
+datasources\LDC_male\wav\2NT3s0771.wav,neutral,two thousand five,tete a tete,male
+datasources\LDC_male\wav\2NT3s0772.wav,neutral,two thousand five,tete a tete,male
+datasources\LDC_male\wav\2NT3s0773.wav,neutral,two thousand five,tete a tete,male
+datasources\LDC_male\wav\2NT3s0780.wav,neutral,two thousand ten,tete a tete,male
+datasources\LDC_male\wav\2NT3s0781.wav,neutral,two thousand ten,tete a tete,male
+datasources\LDC_male\wav\2NT3s0870.wav,neutral,december ninth,tete a tete,male
+datasources\LDC_male\wav\2NT3s0871.wav,neutral,december ninth,tete a tete,male
+datasources\LDC_male\wav\2NT3s0900.wav,neutral,four thousand ten,tete a tete,male
+datasources\LDC_male\wav\2NT3s0901.wav,neutral,four thousand ten,tete a tete,male
+datasources\LDC_male\wav\2NT3s1010.wav,neutral,one hundred five,tete a tete,male
+datasources\LDC_male\wav\2NT3s1011.wav,neutral,one hundred five,tete a tete,male
+datasources\LDC_male\wav\2NT3s1012.wav,neutral,one hundred five,tete a tete,male
+datasources\LDC_male\wav\2NT3s1013.wav,neutral,one hundred five,tete a tete,male
+datasources\LDC_male\wav\2NT3s1150.wav,neutral,fifteen hundred,tete a tete,male
+datasources\LDC_male\wav\2NT3s1151.wav,neutral,fifteen hundred,tete a tete,male
+datasources\LDC_male\wav\2NT3s1890.wav,neutral,august fourteenth,tete a tete,male
+datasources\LDC_male\wav\2NT3s1891.wav,neutral,august fourteenth,tete a tete,male
+datasources\LDC_male\wav\2NT3s1910.wav,neutral,four hundred ten,tete a tete,male
+datasources\LDC_male\wav\2NT3s1911.wav,neutral,four hundred ten,tete a tete,male
+datasources\LDC_male\wav\2NT3s2230.wav,neutral,nine hundred nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2231.wav,neutral,nine hundred nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2290.wav,neutral,april eighteenth,tete a tete,male
+datasources\LDC_male\wav\2NT3s2291.wav,neutral,april eighteenth,tete a tete,male
+datasources\LDC_male\wav\2NT3s2310.wav,neutral,five thousand three,tete a tete,male
+datasources\LDC_male\wav\2NT3s2311.wav,neutral,five thousand three,tete a tete,male
+datasources\LDC_male\wav\2NT3s2312.wav,neutral,five thousand three,tete a tete,male
+datasources\LDC_male\wav\2NT3s2370.wav,neutral,two hundred nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2371.wav,neutral,two hundred nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2372.wav,neutral,two hundred nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2373.wav,neutral,two hundred nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2480.wav,neutral,five hundred three,tete a tete,male
+datasources\LDC_male\wav\2NT3s2481.wav,neutral,five hundred three,tete a tete,male
+datasources\LDC_male\wav\2NT3s2550.wav,neutral,three thousand one,tete a tete,male
+datasources\LDC_male\wav\2NT3s2551.wav,neutral,three thousand one,tete a tete,male
+datasources\LDC_male\wav\2NT3s2552.wav,neutral,three thousand one,tete a tete,male
+datasources\LDC_male\wav\2NT3s2680.wav,neutral,september fifth,tete a tete,male
+datasources\LDC_male\wav\2NT3s2681.wav,neutral,september fifth,tete a tete,male
+datasources\LDC_male\wav\2NT3s2682.wav,neutral,september fifth,tete a tete,male
+datasources\LDC_male\wav\2NT3s2690.wav,neutral,six thousand eight,tete a tete,male
+datasources\LDC_male\wav\2NT3s2691.wav,neutral,six thousand eight,tete a tete,male
+datasources\LDC_male\wav\2NT3s2692.wav,neutral,six thousand eight,tete a tete,male
+datasources\LDC_male\wav\2NT3s2780.wav,neutral,three hundred one,tete a tete,male
+datasources\LDC_male\wav\2NT3s2781.wav,neutral,three hundred one,tete a tete,male
+datasources\LDC_male\wav\2NT3s2782.wav,neutral,three hundred one,tete a tete,male
+datasources\LDC_male\wav\2NT3s2783.wav,neutral,three hundred one,tete a tete,male
+datasources\LDC_male\wav\2NT3s2800.wav,neutral,eight thousand four,tete a tete,male
+datasources\LDC_male\wav\2NT3s2801.wav,neutral,eight thousand four,tete a tete,male
+datasources\LDC_male\wav\2NT3s2870.wav,neutral,nine thousand nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2871.wav,neutral,nine thousand nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2872.wav,neutral,nine thousand nine,tete a tete,male
+datasources\LDC_male\wav\2NT3s2880.wav,neutral,october eighth,tete a tete,male
+datasources\LDC_male\wav\2NT3s2900.wav,neutral,six hundred eight,tete a tete,male
+datasources\LDC_male\wav\2NT3s2901.wav,neutral,six hundred eight,tete a tete,male
+datasources\LDC_male\wav\2NT3s2902.wav,neutral,six hundred eight,tete a tete,male
+datasources\LDC_male\wav\2NT3s2920.wav,neutral,ten thousand three,tete a tete,male
+datasources\LDC_male\wav\2NT3s2921.wav,neutral,ten thousand three,tete a tete,male
+datasources\LDC_male\wav\2NT3s2922.wav,neutral,ten thousand three,tete a tete,male
+datasources\LDC_male\wav\2NT3s3230.wav,neutral,june twenty-eighth,tete a tete,male
+datasources\LDC_male\wav\2NT3s3231.wav,neutral,june twenty-eighth,tete a tete,male
+datasources\LDC_male\wav\2NT3s3232.wav,neutral,june twenty-eighth,tete a tete,male
+datasources\LDC_male\wav\2NT3s3300.wav,neutral,march thirty-first,tete a tete,male
+datasources\LDC_male\wav\2NT3s3301.wav,neutral,march thirty-first,tete a tete,male
+datasources\LDC_male\wav\2NT3s3450.wav,neutral,may twenty-third,tete a tete,male
+datasources\LDC_male\wav\2NT3s3451.wav,neutral,may twenty-third,tete a tete,male
+datasources\LDC_male\wav\2NT3s3452.wav,neutral,may twenty-third,tete a tete,male
+datasources\LDC_male\wav\2SN1s2610.wav,sadness,one hundred six,conversation,male
+datasources\LDC_male\wav\2SN1s2611.wav,sadness,one hundred six,conversation,male
+datasources\LDC_male\wav\2SN1s2612.wav,sadness,one hundred six,conversation,male
+datasources\LDC_male\wav\2SN1s2800.wav,sadness,eight thousand four,conversation,male
+datasources\LDC_male\wav\2SN1s2801.wav,sadness,eight thousand four,conversation,male
+datasources\LDC_male\wav\2SN1s2802.wav,sadness,eight thousand four,conversation,male
+datasources\LDC_male\wav\2SN1s2820.wav,sadness,fourteen sixty,conversation,male
+datasources\LDC_male\wav\2SN1s2821.wav,sadness,fourteen sixty,conversation,male
+datasources\LDC_male\wav\2SN1s2830.wav,sadness,january,conversation,male
+datasources\LDC_male\wav\2SN1s2831.wav,sadness,january,conversation,male
+datasources\LDC_male\wav\2SN1s2832.wav,sadness,january,conversation,male
+datasources\LDC_male\wav\2SN1s2833.wav,sadness,january,conversation,male
+datasources\LDC_male\wav\2SN1s2890.wav,sadness,october first,conversation,male
+datasources\LDC_male\wav\2SN1s2891.wav,sadness,october first,conversation,male
+datasources\LDC_male\wav\2SN1s2910.wav,sadness,six hundred four,conversation,male
+datasources\LDC_male\wav\2SN1s2911.wav,sadness,six hundred four,conversation,male
+datasources\LDC_male\wav\2SN1s2920.wav,sadness,ten thousand three,conversation,male
+datasources\LDC_male\wav\2SN1s2921.wav,sadness,ten thousand three,conversation,male
+datasources\LDC_male\wav\2SN1s2922.wav,sadness,ten thousand three,conversation,male
+datasources\LDC_male\wav\2SN1s2923.wav,sadness,ten thousand three,conversation,male
+datasources\LDC_male\wav\2SN1s2970.wav,sadness,five thousand six,conversation,male
+datasources\LDC_male\wav\2SN1s2971.wav,sadness,five thousand six,conversation,male
+datasources\LDC_male\wav\2SN1s2972.wav,sadness,five thousand six,conversation,male
+datasources\LDC_male\wav\2SN1s2990.wav,sadness,two hundred five,conversation,male
+datasources\LDC_male\wav\2SN1s2991.wav,sadness,two hundred five,conversation,male
+datasources\LDC_male\wav\2SN1s3330.wav,sadness,march twenty-first,conversation,male
+datasources\LDC_male\wav\2SN1s3331.wav,sadness,march twenty-first,conversation,male
+datasources\LDC_male\wav\5AX1s2290.wav,anxiety,april eighteenth,conversation,male
+datasources\LDC_male\wav\5AX1s2291.wav,anxiety,april eighteenth,conversation,male
+datasources\LDC_male\wav\5AX1s2292.wav,anxiety,april eighteenth,conversation,male
+datasources\LDC_male\wav\5AX1s2300.wav,anxiety,eight thousand one,conversation,male
+datasources\LDC_male\wav\5AX1s2301.wav,anxiety,eight thousand one,conversation,male
+datasources\LDC_male\wav\5AX1s2310.wav,anxiety,five thousand three,conversation,male
+datasources\LDC_male\wav\5AX1s2330.wav,anxiety,nine hundred five,conversation,male
+datasources\LDC_male\wav\5AX1s2331.wav,anxiety,nine hundred five,conversation,male
+datasources\LDC_male\wav\5AX1s2340.wav,anxiety,october ninth,conversation,male
+datasources\LDC_male\wav\5AX1s2341.wav,anxiety,october ninth,conversation,male
+datasources\LDC_male\wav\5AX1s2342.wav,anxiety,october ninth,conversation,male
+datasources\LDC_male\wav\5AX1s2350.wav,anxiety,one hundred three,conversation,male
+datasources\LDC_male\wav\5AX1s2351.wav,anxiety,one hundred three,conversation,male
+datasources\LDC_male\wav\5AX1s2360.wav,anxiety,ten thousand two,conversation,male
+datasources\LDC_male\wav\5AX1s2361.wav,anxiety,ten thousand two,conversation,male
+datasources\LDC_male\wav\5AX1s2370.wav,anxiety,two hundred nine,conversation,male
+datasources\LDC_male\wav\5AX1s2371.wav,anxiety,two hundred nine,conversation,male
+datasources\LDC_male\wav\5AX1s2630.wav,anxiety,six hundred one,conversation,male
+datasources\LDC_male\wav\5AX1s2631.wav,anxiety,six hundred one,conversation,male
+datasources\LDC_male\wav\5AX1s2980.wav,anxiety,july fifteenth,conversation,male
+datasources\LDC_male\wav\5AX1s3350.wav,anxiety,march twenty-ninth,conversation,male
+datasources\LDC_male\wav\5AX1s3351.wav,anxiety,march twenty-ninth,conversation,male
+datasources\LDC_male\wav\5BD1s0550.wav,boredom,eight hundred five,conversation,male
+datasources\LDC_male\wav\5BD1s0551.wav,boredom,eight hundred five,conversation,male
+datasources\LDC_male\wav\5BD1s0720.wav,boredom,six thousand two,conversation,male
+datasources\LDC_male\wav\5BD1s0721.wav,boredom,six thousand two,conversation,male
+datasources\LDC_male\wav\5BD1s0722.wav,boredom,six thousand two,conversation,male
+datasources\LDC_male\wav\5BD1s1360.wav,boredom,five hundred one,conversation,male
+datasources\LDC_male\wav\5BD1s1361.wav,boredom,five hundred one,conversation,male
+datasources\LDC_male\wav\5BD1s1362.wav,boredom,five hundred one,conversation,male
+datasources\LDC_male\wav\5BD1s1363.wav,boredom,five hundred one,conversation,male
+datasources\LDC_male\wav\5BD1s1400.wav,boredom,four thousand five,conversation,male
+datasources\LDC_male\wav\5BD1s1401.wav,boredom,four thousand five,conversation,male
+datasources\LDC_male\wav\5BD1s1402.wav,boredom,four thousand five,conversation,male
+datasources\LDC_male\wav\5BD1s1403.wav,boredom,four thousand five,conversation,male
+datasources\LDC_male\wav\5BD1s1560.wav,boredom,november eighth,conversation,male
+datasources\LDC_male\wav\5BD1s1561.wav,boredom,november eighth,conversation,male
+datasources\LDC_male\wav\5BD1s1680.wav,boredom,seventy eight,conversation,male
+datasources\LDC_male\wav\5BD1s1780.wav,boredom,three thousand five,conversation,male
+datasources\LDC_male\wav\5BD1s1781.wav,boredom,three thousand five,conversation,male
+datasources\LDC_male\wav\5BD1s2070.wav,boredom,june twenty fourth,conversation,male
+datasources\LDC_male\wav\5BD1s2071.wav,boredom,june twenty fourth,conversation,male
+datasources\LDC_male\wav\5BD1s2090.wav,boredom,nine thousand ten,conversation,male
+datasources\LDC_male\wav\5BD1s2091.wav,boredom,nine thousand ten,conversation,male
+datasources\LDC_male\wav\5BD1s2092.wav,boredom,nine thousand ten,conversation,male
+datasources\LDC_male\wav\5BD1s2093.wav,boredom,nine thousand ten,conversation,male
+datasources\LDC_male\wav\5BD1s3260.wav,boredom,june twenty-fourth,conversation,male
+datasources\LDC_male\wav\5BD1s3460.wav,boredom,seventy-eight,conversation,male
+datasources\LDC_male\wav\5BD1s3461.wav,boredom,seventy-eight,conversation,male
+datasources\LDC_male\wav\5DG1s2460.wav,disgust,december first,conversation,male
+datasources\LDC_male\wav\5HA1s1140.wav,hot anger,two thousand eight,conversation,male
+datasources\LDC_male\wav\5HA1s1141.wav,hot anger,two thousand eight,conversation,male
+datasources\LDC_male\wav\5HA1s1150.wav,hot anger,fifteen hundred,conversation,male
+datasources\LDC_male\wav\5HA1s2620.wav,hot anger,one thousand six,conversation,male
+datasources\LDC_male\wav\5HA1s2621.wav,hot anger,one thousand six,conversation,male
+datasources\LDC_male\wav\5HA1s2720.wav,hot anger,august eighteenth,conversation,male
+datasources\LDC_male\wav\5HA1s2721.wav,hot anger,august eighteenth,conversation,male
+datasources\LDC_male\wav\5HA1s2730.wav,hot anger,four hundred one,conversation,male
+datasources\LDC_male\wav\5HA1s2731.wav,hot anger,four hundred one,conversation,male
+datasources\LDC_male\wav\5HA1s2740.wav,hot anger,june seventeenth,conversation,male
+datasources\LDC_male\wav\5HA1s2741.wav,hot anger,june seventeenth,conversation,male
+datasources\LDC_male\wav\5HA1s2750.wav,hot anger,nine hundred two,conversation,male
+datasources\LDC_male\wav\5HA1s2760.wav,hot anger,september fourth,conversation,male
+datasources\LDC_male\wav\5HA1s2761.wav,hot anger,september fourth,conversation,male
+datasources\LDC_male\wav\5HA1s2770.wav,hot anger,six thousand four,conversation,male
+datasources\LDC_male\wav\5HA1s2771.wav,hot anger,six thousand four,conversation,male
+datasources\LDC_male\wav\5HA1s2780.wav,hot anger,three hundred one,conversation,male
+datasources\LDC_male\wav\5HA1s2781.wav,hot anger,three hundred one,conversation,male
+datasources\LDC_male\wav\5HA1s3090.wav,hot anger,one one thousand six,conversation,male
+datasources\LDC_male\wav\5HA1s3100.wav,hot anger,two thousand and eight,conversation,male
+datasources\LDC_male\wav\5HA1s3390.wav,hot anger,may twenty-eighth,conversation,male
+datasources\LDC_male\wav\5HP1s0630.wav,happy,march thirtieth,conversation,male
+datasources\LDC_male\wav\5HP1s0631.wav,happy,march thirtieth,conversation,male
+datasources\LDC_male\wav\5HP1s0670.wav,happy,one hundred eight,conversation,male
+datasources\LDC_male\wav\5HP1s0671.wav,happy,one hundred eight,conversation,male
+datasources\LDC_male\wav\5HP1s0672.wav,happy,one hundred eight,conversation,male
+datasources\LDC_male\wav\5HP1s1290.wav,happy,december sixth,conversation,male
+datasources\LDC_male\wav\5HP1s1291.wav,happy,december sixth,conversation,male
+datasources\LDC_male\wav\5HP1s1310.wav,happy,eight hundred three,conversation,male
+datasources\LDC_male\wav\5HP1s1311.wav,happy,eight hundred three,conversation,male
+datasources\LDC_male\wav\5HP1s1420.wav,happy,four thousand three,conversation,male
+datasources\LDC_male\wav\5HP1s1421.wav,happy,four thousand three,conversation,male
+datasources\LDC_male\wav\5HP1s1580.wav,happy,november tenth,conversation,male
+datasources\LDC_male\wav\5HP1s1581.wav,happy,november tenth,conversation,male
+datasources\LDC_male\wav\5HP1s1582.wav,happy,november tenth,conversation,male
+datasources\LDC_male\wav\5HP1s1730.wav,happy,ten thousand four,conversation,male
+datasources\LDC_male\wav\5HP1s1731.wav,happy,ten thousand four,conversation,male
+datasources\LDC_male\wav\5HP1s1732.wav,happy,ten thousand four,conversation,male
+datasources\LDC_male\wav\5HP1s2030.wav,happy,five thousand eight,conversation,male
+datasources\LDC_male\wav\5HP1s2031.wav,happy,five thousand eight,conversation,male
+datasources\LDC_male\wav\5HP1s2170.wav,happy,three thousand three,conversation,male
+datasources\LDC_male\wav\5HP1s2171.wav,happy,three thousand three,conversation,male
+datasources\LDC_male\wav\5HP1s2172.wav,happy,three thousand three,conversation,male
+datasources\LDC_male\wav\5HP1s3510.wav,happy,seventy-six,conversation,male
+datasources\LDC_male\wav\5NT1s0060.wav,neutral,nine thousand six,conversation,male
+datasources\LDC_male\wav\5NT1s0061.wav,neutral,nine thousand six,conversation,male
+datasources\LDC_male\wav\5NT1s0270.wav,neutral,november fifth,conversation,male
+datasources\LDC_male\wav\5NT1s0271.wav,neutral,november fifth,conversation,male
+datasources\LDC_male\wav\5NT1s0450.wav,neutral,july seventh,conversation,male
+datasources\LDC_male\wav\5NT1s0451.wav,neutral,july seventh,conversation,male
+datasources\LDC_male\wav\5NT1s0470.wav,neutral,nine hundred six,conversation,male
+datasources\LDC_male\wav\5NT1s0780.wav,neutral,two thousand ten,conversation,male
+datasources\LDC_male\wav\5NT1s0890.wav,neutral,five hundred two,conversation,male
+datasources\LDC_male\wav\5NT1s0891.wav,neutral,five hundred two,conversation,male
+datasources\LDC_male\wav\5NT1s0940.wav,neutral,three thousand ten,conversation,male
+datasources\LDC_male\wav\5NT1s0941.wav,neutral,three thousand ten,conversation,male
+datasources\LDC_male\wav\5NT1s0950.wav,neutral,december tenth,conversation,male
+datasources\LDC_male\wav\5NT1s0951.wav,neutral,december tenth,conversation,male
+datasources\LDC_male\wav\5NT1s0980.wav,neutral,four thousand twelve,conversation,male
+datasources\LDC_male\wav\5NT1s0981.wav,neutral,four thousand twelve,conversation,male
+datasources\LDC_male\wav\5NT1s1820.wav,neutral,two thousand four,conversation,male
+datasources\LDC_male\wav\5NT1s1821.wav,neutral,two thousand four,conversation,male
+datasources\LDC_male\wav\5NT1s1830.wav,neutral,two thousand nine,conversation,male
+datasources\LDC_male\wav\5NT1s1840.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\5NT1s1841.wav,neutral,two thousand one,conversation,male
+datasources\LDC_male\wav\5NT1s1850.wav,neutral,two thousand six,conversation,male
+datasources\LDC_male\wav\5NT1s1860.wav,neutral,two thousand three,conversation,male
+datasources\LDC_male\wav\5NT1s1861.wav,neutral,two thousand three,conversation,male
+datasources\LDC_male\wav\5NT1s1870.wav,neutral,two thousand twelve,conversation,male
+datasources\LDC_male\wav\5NT1s1880.wav,neutral,two thousand two,conversation,male
+datasources\LDC_male\wav\5NT1s1881.wav,neutral,two thousand two,conversation,male
+datasources\LDC_male\wav\5NT1s1882.wav,neutral,two thousand two,conversation,male
+datasources\LDC_male\wav\5NT1s1970.wav,neutral,three hundred ten,conversation,male
+datasources\LDC_male\wav\5NT1s2120.wav,neutral,one hundred nine,conversation,male
+datasources\LDC_male\wav\5NT1s2121.wav,neutral,one hundred nine,conversation,male
+datasources\LDC_male\wav\5NT1s2190.wav,neutral,august second,conversation,male
+datasources\LDC_male\wav\5NT1s2191.wav,neutral,august second,conversation,male
+datasources\LDC_male\wav\5NT1s2210.wav,neutral,four hundred twelve,conversation,male
+datasources\LDC_male\wav\5NT1s2300.wav,neutral,eight thousand one,conversation,male
+datasources\LDC_male\wav\5NT1s2301.wav,neutral,eight thousand one,conversation,male
+datasources\LDC_male\wav\5NT1s2302.wav,neutral,eight thousand one,conversation,male
+datasources\LDC_male\wav\5NT1s2360.wav,neutral,ten thousand two,conversation,male
+datasources\LDC_male\wav\5NT1s2380.wav,neutral,april fourteenth,conversation,male
+datasources\LDC_male\wav\5NT1s2400.wav,neutral,five thousand two,conversation,male
+datasources\LDC_male\wav\5NT1s2401.wav,neutral,five thousand two,conversation,male
+datasources\LDC_male\wav\5NT1s2450.wav,neutral,two hundred six,conversation,male
+datasources\LDC_male\wav\5NT1s2470.wav,neutral,eight hundred one,conversation,male
+datasources\LDC_male\wav\5NT1s2670.wav,neutral,one thousand nine,conversation,male
+datasources\LDC_male\wav\5NT1s2760.wav,neutral,september fourth,conversation,male
+datasources\LDC_male\wav\5NT1s2761.wav,neutral,september fourth,conversation,male
+datasources\LDC_male\wav\5NT1s2762.wav,neutral,september fourth,conversation,male
+datasources\LDC_male\wav\5NT1s2770.wav,neutral,six thousand four,conversation,male
+datasources\LDC_male\wav\5NT1s2890.wav,neutral,october first,conversation,male
+datasources\LDC_male\wav\5NT1s2891.wav,neutral,october first,conversation,male
+datasources\LDC_male\wav\5NT1s2910.wav,neutral,six hundred four,conversation,male
+datasources\LDC_male\wav\5NT1s3200.wav,neutral,fifty-seven,conversation,male
+datasources\LDC_male\wav\5NT1s3201.wav,neutral,fifty-seven,conversation,male
+datasources\LDC_male\wav\5NT1s3250.wav,neutral,june twenty-first,conversation,male
+datasources\LDC_male\wav\5NT1s3310.wav,neutral,march twenty-eighth,conversation,male
+datasources\LDC_male\wav\5NT1s3311.wav,neutral,march twenty-eighth,conversation,male
+datasources\LDC_male\wav\5NT1s3312.wav,neutral,march twenty-eighth,conversation,male
+datasources\LDC_male\wav\5NT1s3380.wav,neutral,may thirty-first,conversation,male
+datasources\LDC_male\wav\5NT1s3470.wav,neutral,seventy-five,conversation,male
+datasources\LDC_male\wav\5NT1s3471.wav,neutral,seventy-five,conversation,male
+datasources\LDC_male\wav\5NT1s3540.wav,neutral,sixty-seven,conversation,male
+datasources\LDC_male\wav\5NT1s3541.wav,neutral,sixty-seven,conversation,male
+datasources\LDC_male\wav\5NT2s0030.wav,neutral,five hundred nine,distant,male
+datasources\LDC_male\wav\5NT2s0031.wav,neutral,five hundred nine,distant,male
+datasources\LDC_male\wav\5NT2s0032.wav,neutral,five hundred nine,distant,male
+datasources\LDC_male\wav\5NT2s0090.wav,neutral,three thousand eight,distant,male
+datasources\LDC_male\wav\5NT2s0091.wav,neutral,three thousand eight,distant,male
+datasources\LDC_male\wav\5NT2s0092.wav,neutral,three thousand eight,distant,male
+datasources\LDC_male\wav\5NT2s0210.wav,neutral,december eighth,distant,male
+datasources\LDC_male\wav\5NT2s0240.wav,neutral,four thousand four,distant,male
+datasources\LDC_male\wav\5NT2s0241.wav,neutral,four thousand four,distant,male
+datasources\LDC_male\wav\5NT2s0430.wav,neutral,eight thousand twelve,distant,male
+datasources\LDC_male\wav\5NT2s0431.wav,neutral,eight thousand twelve,distant,male
+datasources\LDC_male\wav\5NT2s0510.wav,neutral,three hundred eight,distant,male
+datasources\LDC_male\wav\5NT2s0511.wav,neutral,three hundred eight,distant,male
+datasources\LDC_male\wav\5NT2s0920.wav,neutral,november sixth,distant,male
+datasources\LDC_male\wav\5NT2s0921.wav,neutral,november sixth,distant,male
+datasources\LDC_male\wav\5NT2s0960.wav,neutral,eight hundred twelve,distant,male
+datasources\LDC_male\wav\5NT2s0961.wav,neutral,eight hundred twelve,distant,male
+datasources\LDC_male\wav\5NT2s1030.wav,neutral,ten thousand nine,distant,male
+datasources\LDC_male\wav\5NT2s1840.wav,neutral,two thousand one,distant,male
+datasources\LDC_male\wav\5NT2s1841.wav,neutral,two thousand one,distant,male
+datasources\LDC_male\wav\5NT2s1940.wav,neutral,one thousand three,distant,male
+datasources\LDC_male\wav\5NT2s1941.wav,neutral,one thousand three,distant,male
+datasources\LDC_male\wav\5NT2s1942.wav,neutral,one thousand three,distant,male
+datasources\LDC_male\wav\5NT2s1943.wav,neutral,one thousand three,distant,male
+datasources\LDC_male\wav\5NT2s2250.wav,neutral,september third,distant,male
+datasources\LDC_male\wav\5NT2s2251.wav,neutral,september third,distant,male
+datasources\LDC_male\wav\5NT2s2260.wav,neutral,six thousand ten,distant,male
+datasources\LDC_male\wav\5NT2s2350.wav,neutral,one hundred three,distant,male
+datasources\LDC_male\wav\5NT2s2351.wav,neutral,one hundred three,distant,male
+datasources\LDC_male\wav\5NT2s2352.wav,neutral,one hundred three,distant,male
+datasources\LDC_male\wav\5NT2s2420.wav,neutral,october tenth,distant,male
+datasources\LDC_male\wav\5NT2s2421.wav,neutral,october tenth,distant,male
+datasources\LDC_male\wav\5NT2s2440.wav,neutral,six hundred ten,distant,male
+datasources\LDC_male\wav\5NT2s2510.wav,neutral,nine thousand two,distant,male
+datasources\LDC_male\wav\5NT2s2511.wav,neutral,nine thousand two,distant,male
+datasources\LDC_male\wav\5NT2s2512.wav,neutral,nine thousand two,distant,male
+datasources\LDC_male\wav\5NT2s2640.wav,neutral,april sixteenth,distant,male
+datasources\LDC_male\wav\5NT2s2650.wav,neutral,four hundred four,distant,male
+datasources\LDC_male\wav\5NT2s2651.wav,neutral,four hundred four,distant,male
+datasources\LDC_male\wav\5NT2s2710.wav,neutral,two hundred two,distant,male
+datasources\LDC_male\wav\5NT2s2711.wav,neutral,two hundred two,distant,male
+datasources\LDC_male\wav\5NT2s2712.wav,neutral,two hundred two,distant,male
+datasources\LDC_male\wav\5NT2s2740.wav,neutral,june seventeenth,distant,male
+datasources\LDC_male\wav\5NT2s2750.wav,neutral,nine hundred two,distant,male
+datasources\LDC_male\wav\5NT2s2751.wav,neutral,nine hundred two,distant,male
+datasources\LDC_male\wav\5NT2s2752.wav,neutral,nine hundred two,distant,male
+datasources\LDC_male\wav\5NT2s2810.wav,neutral,five thousand nine,distant,male
+datasources\LDC_male\wav\5NT2s2811.wav,neutral,five thousand nine,distant,male
+datasources\LDC_male\wav\5NT2s2820.wav,neutral,fourteen sixty,distant,male
+datasources\LDC_male\wav\5NT2s2821.wav,neutral,fourteen sixty,distant,male
+datasources\LDC_male\wav\5NT2s2822.wav,neutral,fourteen sixty,distant,male
+datasources\LDC_male\wav\5NT2s2830.wav,neutral,january,distant,male
+datasources\LDC_male\wav\5NT2s2930.wav,neutral,twelve and a half,distant,male
+datasources\LDC_male\wav\5NT2s3290.wav,neutral,june twenty-third,distant,male
+datasources\LDC_male\wav\5NT2s3350.wav,neutral,march twenty-ninth,distant,male
+datasources\LDC_male\wav\5NT2s3410.wav,neutral,may twenty-first,distant,male
+datasources\LDC_male\wav\5NT2s3500.wav,neutral,seventy-one,distant,male
+datasources\LDC_male\wav\5NT2s3501.wav,neutral,seventy-one,distant,male
+datasources\LDC_male\wav\5NT3s0070.wav,neutral,seven hundred,tete a tete,male
+datasources\LDC_male\wav\5NT3s0071.wav,neutral,seven hundred,tete a tete,male
+datasources\LDC_male\wav\5NT3s0072.wav,neutral,seven hundred,tete a tete,male
+datasources\LDC_male\wav\5NT3s0073.wav,neutral,seven hundred,tete a tete,male
+datasources\LDC_male\wav\5NT3s0220.wav,neutral,eight hundred four,tete a tete,male
+datasources\LDC_male\wav\5NT3s0221.wav,neutral,eight hundred four,tete a tete,male
+datasources\LDC_male\wav\5NT3s0290.wav,neutral,sixteen hundred,tete a tete,male
+datasources\LDC_male\wav\5NT3s0291.wav,neutral,sixteen hundred,tete a tete,male
+datasources\LDC_male\wav\5NT3s0460.wav,neutral,may seventeenth,tete a tete,male
+datasources\LDC_male\wav\5NT3s0461.wav,neutral,may seventeenth,tete a tete,male
+datasources\LDC_male\wav\5NT3s0490.wav,neutral,one thousand five,tete a tete,male
+datasources\LDC_male\wav\5NT3s0491.wav,neutral,one thousand five,tete a tete,male
+datasources\LDC_male\wav\5NT3s0770.wav,neutral,two thousand five,tete a tete,male
+datasources\LDC_male\wav\5NT3s0771.wav,neutral,two thousand five,tete a tete,male
+datasources\LDC_male\wav\5NT3s0780.wav,neutral,two thousand ten,tete a tete,male
+datasources\LDC_male\wav\5NT3s0781.wav,neutral,two thousand ten,tete a tete,male
+datasources\LDC_male\wav\5NT3s0870.wav,neutral,december ninth,tete a tete,male
+datasources\LDC_male\wav\5NT3s0900.wav,neutral,four thousand ten,tete a tete,male
+datasources\LDC_male\wav\5NT3s1010.wav,neutral,one hundred five,tete a tete,male
+datasources\LDC_male\wav\5NT3s1011.wav,neutral,one hundred five,tete a tete,male
+datasources\LDC_male\wav\5NT3s1150.wav,neutral,fifteen hundred,tete a tete,male
+datasources\LDC_male\wav\5NT3s1151.wav,neutral,fifteen hundred,tete a tete,male
+datasources\LDC_male\wav\5NT3s1480.wav,neutral,march twentieth,tete a tete,male
+datasources\LDC_male\wav\5NT3s1890.wav,neutral,august fourteenth,tete a tete,male
+datasources\LDC_male\wav\5NT3s1891.wav,neutral,august fourteenth,tete a tete,male
+datasources\LDC_male\wav\5NT3s1910.wav,neutral,four hundred ten,tete a tete,male
+datasources\LDC_male\wav\5NT3s1911.wav,neutral,four hundred ten,tete a tete,male
+datasources\LDC_male\wav\5NT3s2230.wav,neutral,nine hundred nine,tete a tete,male
+datasources\LDC_male\wav\5NT3s2290.wav,neutral,april eighteenth,tete a tete,male
+datasources\LDC_male\wav\5NT3s2291.wav,neutral,april eighteenth,tete a tete,male
+datasources\LDC_male\wav\5NT3s2310.wav,neutral,five thousand three,tete a tete,male
+datasources\LDC_male\wav\5NT3s2311.wav,neutral,five thousand three,tete a tete,male
+datasources\LDC_male\wav\5NT3s2370.wav,neutral,two hundred nine,tete a tete,male
+datasources\LDC_male\wav\5NT3s2371.wav,neutral,two hundred nine,tete a tete,male
+datasources\LDC_male\wav\5NT3s2372.wav,neutral,two hundred nine,tete a tete,male
+datasources\LDC_male\wav\5NT3s2480.wav,neutral,five hundred three,tete a tete,male
+datasources\LDC_male\wav\5NT3s2481.wav,neutral,five hundred three,tete a tete,male
+datasources\LDC_male\wav\5NT3s2550.wav,neutral,three thousand one,tete a tete,male
+datasources\LDC_male\wav\5NT3s2551.wav,neutral,three thousand one,tete a tete,male
+datasources\LDC_male\wav\5NT3s2552.wav,neutral,three thousand one,tete a tete,male
+datasources\LDC_male\wav\5NT3s2680.wav,neutral,september fifth,tete a tete,male
+datasources\LDC_male\wav\5NT3s2681.wav,neutral,september fifth,tete a tete,male
+datasources\LDC_male\wav\5NT3s2682.wav,neutral,september fifth,tete a tete,male
+datasources\LDC_male\wav\5NT3s2690.wav,neutral,six thousand eight,tete a tete,male
+datasources\LDC_male\wav\5NT3s2691.wav,neutral,six thousand eight,tete a tete,male
+datasources\LDC_male\wav\5NT3s2780.wav,neutral,three hundred one,tete a tete,male
+datasources\LDC_male\wav\5NT3s2781.wav,neutral,three hundred one,tete a tete,male
+datasources\LDC_male\wav\5NT3s2782.wav,neutral,three hundred one,tete a tete,male
+datasources\LDC_male\wav\5NT3s2800.wav,neutral,eight thousand four,tete a tete,male
+datasources\LDC_male\wav\5NT3s2801.wav,neutral,eight thousand four,tete a tete,male
+datasources\LDC_male\wav\5NT3s2870.wav,neutral,nine thousand nine,tete a tete,male
+datasources\LDC_male\wav\5NT3s2871.wav,neutral,nine thousand nine,tete a tete,male
+datasources\LDC_male\wav\5NT3s2872.wav,neutral,nine thousand nine,tete a tete,male
+datasources\LDC_male\wav\5NT3s2880.wav,neutral,october eighth,tete a tete,male
+datasources\LDC_male\wav\5NT3s2881.wav,neutral,october eighth,tete a tete,male
+datasources\LDC_male\wav\5NT3s2900.wav,neutral,six hundred eight,tete a tete,male
+datasources\LDC_male\wav\5NT3s2901.wav,neutral,six hundred eight,tete a tete,male
+datasources\LDC_male\wav\5NT3s2920.wav,neutral,ten thousand three,tete a tete,male
+datasources\LDC_male\wav\5NT3s2921.wav,neutral,ten thousand three,tete a tete,male
+datasources\LDC_male\wav\5NT3s3110.wav,neutral,it's Four thousand ten,tete a tete,male
+datasources\LDC_male\wav\5NT3s3230.wav,neutral,june twenty-eighth,tete a tete,male
+datasources\LDC_male\wav\5NT3s3231.wav,neutral,june twenty-eighth,tete a tete,male
+datasources\LDC_male\wav\5NT3s3300.wav,neutral,march thirty-first,tete a tete,male
+datasources\LDC_male\wav\5NT3s3301.wav,neutral,march thirty-first,tete a tete,male
+datasources\LDC_male\wav\5NT3s3450.wav,neutral,may twenty-third,tete a tete,male
+datasources\LDC_male\wav\5NT3s3451.wav,neutral,may twenty-third,tete a tete,male
+datasources\LDC_male\wav\5SN1s2610.wav,sadness,one hundred six,conversation,male
+datasources\LDC_male\wav\5SN1s2611.wav,sadness,one hundred six,conversation,male
+datasources\LDC_male\wav\5SN1s2820.wav,sadness,fourteen sixty,conversation,male
+datasources\LDC_male\wav\5SN1s2830.wav,sadness,january,conversation,male
+datasources\LDC_male\wav\5SN1s2890.wav,sadness,october first,conversation,male
+datasources\LDC_male\wav\5SN1s2910.wav,sadness,six hundred four,conversation,male
+datasources\LDC_male\wav\5SN1s2911.wav,sadness,six hundred four,conversation,male
+datasources\LDC_male\wav\5SN1s2920.wav,sadness,ten thousand three,conversation,male
+datasources\LDC_male\wav\5SN1s2921.wav,sadness,ten thousand three,conversation,male
+datasources\LDC_male\wav\5SN1s2970.wav,sadness,five thousand six,conversation,male
+datasources\LDC_male\wav\5SN1s2971.wav,sadness,five thousand six,conversation,male
+datasources\LDC_male\wav\5SN1s2990.wav,sadness,two hundred five,conversation,male
+datasources\LDC_male\wav\5SN1s2991.wav,sadness,two hundred five,conversation,male
+datasources\LDC_male\wav\5SN1s3130.wav,sadness,fourteen sixty two,conversation,male
+datasources\LDC_male\wav\5SN1s3131.wav,sadness,fourteen sixty two,conversation,male
+datasources\LDC_male\wav\5SN1s3132.wav,sadness,fourteen sixty two,conversation,male
+datasources\LDC_male\wav\5SN1s3133.wav,sadness,fourteen sixty two,conversation,male
+datasources\LDC_male\wav\5SN1s3140.wav,sadness,sixty two,conversation,male
+datasources\LDC_male\wav\5SN1s3330.wav,sadness,march twenty-first,conversation,male
+datasources\LDC_male\wav\5SN1s3331.wav,sadness,march twenty-first,conversation,male
