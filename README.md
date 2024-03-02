@@ -1,5 +1,6 @@
 # SER
 Deep learning driven Acoustic Emotion Recognition and Visualization Methodology
+
 # Installation
 1. Install Python 3.7.
 2. Clone this repository.
@@ -39,3 +40,8 @@ Deep learning driven Acoustic Emotion Recognition and Visualization Methodology
 |   |           |       03-01-01-01-02-01-01.wav
 |   |           |       03-01-01-01-02-02-01.wav
 ```
+
+## Audio Datasets
+[RAVDESS](https://zenodo.org/record/1188976#.YRJD6IhKiiM)  
+[EMO_DB](http://emodb.bilderbar.info/start.html)  
+[LDC](https://catalog.ldc.upenn.edu/LDC2002S28))
