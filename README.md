@@ -6,7 +6,10 @@ Deep learning driven Acoustic Emotion Recognition and Visualization Methodology
 3. Install the required dependencies:
    using the requirements.txt file
 4. Add an audio dataset following the instructions below
-# |           
+
+## Adding an Audio Dataset        
+```Bash
+|           
 +---datasources
 |   +---EMO_DB
 |   |   |   EMO_DB_KEYS.json   
@@ -26,3 +29,5 @@ Deep learning driven Acoustic Emotion Recognition and Visualization Methodology
 |   |           |       03-01-01-01-01-02-01.wav
 |   |           |       03-01-01-01-02-01-01.wav
 |   |           |       03-01-01-01-02-02-01.wav
+
+```
