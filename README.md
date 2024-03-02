@@ -1,23 +1,5 @@
 # SER
 Deep learning driven Acoustic Emotion Recognition and Visualization Methodology
-- This study is a technique for analyzing emotions in speech and visualizing them. By 
-adding color indications and intonation information to speech, which can be incorporated into 
-text representations. We developed a technique using Deep Learning methods especially the 
-1DCNN model to reliably analyze emotions which in turn provided into an emotion analyzer 
-and a text mapper. By mapping emotion and STT, we visually represented emotions with 
-size and color information and arranged texts. The emotional expressions can be represented 
-efficiently than those traditional approaches. It allows for the analysis of emotional content 
-language to be used in various fields such as movies, dramas, computer games, etc. The use 
-of speech and color in emotional expression transcends language barriers and can serve as a 
-multicultural language for conveying emotions to all language users. Emotion color cards can 
-be used in educational environments where language communication is required, facilitating 
-communication with students who are deaf or have emotional developmental disorders. It can 
-also rapidly identify and block harmful content for children and teenagers. It enables 
-emotional communication in interactions with people speaking different languages by utilizing 
-speech's color indications. The expression of emotion through speech and color is applicable 
-independently of language, making it suitable for systems supporting socially vulnerable 
-groups such as individuals with depression, emotional disorders, or elderly individuals living 
-alone.
 
 # Installation
 1. Install Python 3.7.
