@@ -20,6 +20,15 @@ Deep learning driven Acoustic Emotion Recognition and Visualization Methodology
 |   |               16b10Wa.wav
 |   |               16b10Wb.wav
 |   |               
+|   +---LDC
+|   |   |   LDC_KEYS.json  
+|   |   \---LDC_DATA
+|   |       \---wav
+|   |               1AX1s0020.wav
+|   |               1AX1s0021.wav
+|   |               1AX1s0040.wav
+|   |               1AX1s0060.wav
+|   |               
 |   +---RAVDESS
 |   |   |   RAVDESS_KEYS.json  
 |   |   \---RAVDESS_DATA
@@ -29,5 +38,4 @@ Deep learning driven Acoustic Emotion Recognition and Visualization Methodology
 |   |           |       03-01-01-01-01-02-01.wav
 |   |           |       03-01-01-01-02-01-01.wav
 |   |           |       03-01-01-01-02-02-01.wav
-
 ```
